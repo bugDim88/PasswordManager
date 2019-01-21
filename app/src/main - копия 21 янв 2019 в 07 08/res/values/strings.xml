@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="message">This activity will require a master password to log in</string>
+    <string name="confirm">Confirm</string>
+    <string name="default_category">No category</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_top">TopActivity</string>
+    <string name="icon_description">iconID</string>
+    <string name="sort_by">sort by</string>
+    <string name="copy">Copy</string>
+    <string name="comments">comments</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="title">title</string>
+    <string name="username">username</string>
+    <string name="website">http://website.ru</string>
+</resources>
